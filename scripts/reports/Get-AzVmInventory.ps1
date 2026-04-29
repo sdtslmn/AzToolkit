@@ -23,8 +23,8 @@
     Exports to CSV (we'll add this as a built-in option later).
 
 .NOTES
-    Author : <your name>
-    Repo   : https://github.com/<you>/az-toolkit
+    Author : Sedat Salman
+    Repo   : https://github.com/sdtslmn/AzToolkit
 #>
 
 [CmdletBinding()]
